@@ -2,7 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pachecou))](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pachecou)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pachecou&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
